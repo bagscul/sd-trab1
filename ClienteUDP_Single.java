@@ -2,7 +2,7 @@ import java.net.*;
 import java.util.Random;
 
 public class ClienteUDP_Single {
-    private static final String SERVER_IP = "192.168.100.101";
+    private static final String SERVER_IP = "192.168.0.1";
     private static final int PORTA = 6000;
     private static final int NUM_MSG = 5;
 
