@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 
 public class ClienteTCP {
-    private static final String SERVER_IP = "192.168.100.101";
+    private static final String SERVER_IP = "192.168.0.1";
     private static final int PORTA = 5000;
 
     public static void main(String[] args) {
