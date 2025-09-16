@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.Random;
 
 public class ClienteTCP_Single {
-    private static final String SERVER_IP = "192.168.100.101";
+    private static final String SERVER_IP = "192.168.0.1";
     private static final int PORTA = 5000;
     private static final int NUM_MSG = 5; // número de mensagens enviadas
 
